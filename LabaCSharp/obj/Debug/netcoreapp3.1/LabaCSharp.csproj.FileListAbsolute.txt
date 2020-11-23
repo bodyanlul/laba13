@@ -1,0 +1,16 @@
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.exe
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.deps.json
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.runtimeconfig.json
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.runtimeconfig.dev.json
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.dll
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\bin\Debug\netcoreapp3.1\LabaCSharp.pdb
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.Forms.Add.resources
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.Forms.Main.resources
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.dll
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.pdb
+C:\Users\Богдан\Desktop\LAB\labacsharp-master\LabaCSharp\obj\Debug\netcoreapp3.1\LabaCSharp.genruntimeconfig.cache
